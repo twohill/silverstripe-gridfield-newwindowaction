@@ -1,0 +1,18 @@
+{
+  "name": "twohill/silverstripe-gridfield-newwindowaction",
+  "description": "Adds a button to the SilverStripe GridField that causes an action to open in a new window.\n",
+  "homepage": "https://github.com/twohill/silverstripe-gridfield-newwindowaction",
+  "keywords": ["silverstripe", "gridfield", "newwindow"],
+  "license": "BSD-3-Clause",
+  "authors": [
+    {"name":  "Al Twohill", "email":  "al@twohill.nz"}
+  ],
+  "require": {
+    "silverstripe/cms": "^4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Twohill\\": "src/"
+    }
+  }
+}
